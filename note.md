@@ -15,5 +15,9 @@ Branch
 - git checkout [id commit]: trở lại xem commit cũ
   và trở lại bằng git checkout [branch_name]
 - git branch
+<<<<<<< HEAD
 - git checkout -b [branch_name]: tạo nhánh mới
 - git merge [branch_name]: tổng hợp file từ nhánh khác về nhánh hiện tại
+=======
+- git checkout -b [branch_name]: tạo nhánh mới và chuyển với nhánh đó
+>>>>>>> dev
