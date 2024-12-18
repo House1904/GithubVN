@@ -2,6 +2,7 @@
 
 Repository (Repo)
 Branch
+Conflict
 
 # Commands
 
@@ -17,3 +18,5 @@ Branch
 - git branch
 - git checkout -b [branch_name]: tạo nhánh mới
 - git merge [branch_name]: tổng hợp file từ nhánh khác về nhánh hiện tại
+- git branch -d [branch_name]: xoá nhánh
+-
