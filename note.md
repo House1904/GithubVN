@@ -15,4 +15,4 @@ Branch
 - git checkout [id commit]: trở lại xem commit cũ
   và trở lại bằng git checkout [branch_name]
 - git branch
-- git checkout -b [branch_name]: tạo nhánh mới
+- git checkout -b [branch_name]: tạo nhánh mới và chuyển với nhánh đó
