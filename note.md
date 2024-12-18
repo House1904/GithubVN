@@ -22,4 +22,8 @@ Remote
 - git merge [branch_name]: tổng hợp file từ nhánh khác về nhánh hiện tại
 - git branch -d [branch_name]: xoá nhánh
 - git push
-- git clone
+- git clone [repo_url]
+- git remote add origin [repo_url]
+- git push origin [branch_name]
+- git fetch origin
+- git checkout -b [branch_name] origin/[branch_name]
