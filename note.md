@@ -16,3 +16,4 @@ Branch
   và trở lại bằng git checkout [branch_name]
 - git branch
 - git checkout -b [branch_name]: tạo nhánh mới
+- git merge [branch_name]: tổng hợp file từ nhánh khác về nhánh hiện tại
